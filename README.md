@@ -1,7 +1,7 @@
 # Portfolio
 * My portfolio site, developed using react.
 
-* Hosted @ [netlify-site](https://marufbinsalim.netlify.app//)
+* Hosted @ [netlify-site](https://marufbinsalim.netlify.app/)
 * Technologies:
   - React JS
   - Firebase datastore (for projects page)
