@@ -6,7 +6,7 @@ export const contactObject_1 =
 {
     lightBackground: true,
     firstBigText: '@ Md. Maruf Bin Salim Bhuiyan',
-    fourthMediumText: 'This is how you can contact me.', 
+    fourthMediumText: 'You can contact me through mail, contact number or address.', 
     imgSource: img6,
     animationXfrom : -1200,
     animationYImg : 1200,
